@@ -3,6 +3,8 @@
 
 Estimate your cost using this simple cost estimation tool.
 
+[Click Here 👈👈👈](https://saurabhalagdeve.github.io/Cost-Estimator-Responsive/)
+
 ![Cost Estimator](images/screenshot.png)
 
 ##Screen Shots
@@ -51,6 +53,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
+[Click Here 👈👈👈](https://saurabhalagdeve.github.io/Cost-Estimator-Responsive/)
 ---
 
-Feel free to customize the content and formatting of this README to better suit your project's needs. Make sure to replace the placeholders with actual content and update the links and images accordingly.
+
